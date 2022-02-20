@@ -1,0 +1,16 @@
+/* button {
+    border: none;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 25px;
+    background-color: cornflowerblue;
+} */
+
+button {
+    padding: 10px;
+    color: white;
+    background-color: lightgreen;
+    font-weight: bold;
+    border-radius: 25px;
+}
