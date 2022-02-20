@@ -1,16 +1,19 @@
-/* button {
-    border: none;
-    padding: 10px;
-    color: white;
-    font-weight: bold;
-    border-radius: 25px;
-    background-color: cornflowerblue;
-} */
-
 button {
-    padding: 10px;
+    width: 120px;
+    margin-bottom: 10px;
+    border-radius: 25px;
     color: white;
     background-color: lightgreen;
-    font-weight: bold;
-    border-radius: 25px;
+    font-weight: bodl; 
+    border: none;
+    padding: 10px
 }
+
+#someButton2 {
+    color: white;
+    background-color: red;
+    border-radius: 25px;
+    padding: 10px;
+    border: none;
+}
+
